@@ -1,0 +1,13 @@
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    color: #333;
+}
+
+#bookingChart {
+    max-width: 600px;
+    margin: 20px auto;
+}
